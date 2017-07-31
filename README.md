@@ -1,6 +1,9 @@
 [![Build Status](https://travis-ci.org/mr0re1/pynstagram.svg?branch=master)](https://travis-ci.org/mr0re1/pynstagram)
 [![PyPi](https://img.shields.io/pypi/v/pynstagram.svg)](https://pypi.python.org/pypi/pynstagram)
 
+## It's now not working. You'll see below error - 
+```IOError: Your version of Instagram is out of date. Please upgrade your app to log in to Instagram.```
+
 # Pynstagram
 
 Pynstagram is small python module and CLI tool that allows you to upload photo to [Instagram](http://www.instagram.com).
